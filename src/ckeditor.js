@@ -117,7 +117,6 @@ Editor.builtinPlugins = [
 	LinkImage,
 	List,
 	ListProperties,
-	Markdown,
 	MediaEmbed,
 	MediaEmbedToolbar,
 	Mention,
@@ -144,7 +143,6 @@ Editor.builtinPlugins = [
 	TableToolbar,
 	TextPartLanguage,
 	TextTransformation,
-	Title,
 	TodoList,
 	Underline,
 	WordCount
